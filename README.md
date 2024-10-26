@@ -1,6 +1,6 @@
 ## Portefølje 
 
-Velkommen til min portefølje! Her vil du finne tidligere innleveringer og prosjekter som jeg har gjort under studietiden min på Blindern. 
+Her finner du tidligere innleveringer og prosjekter som jeg har gjort under studietiden min på Blindern. 
 
 ## Innhold 
 
