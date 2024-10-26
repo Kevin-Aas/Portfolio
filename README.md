@@ -4,10 +4,10 @@ Velkommen til min portefølje! Her vil du finne tidligere innleveringer og prosj
 
 ## Innhold 
 
-** IN1010 - Objektorientert programmering **
+**IN1010 - Objektorientert programmering**
 
-** IN-STK5000 - Adaptive metoder for data-baserte beslutninger**
+**IN-STK5000 - Adaptive metoder for data-baserte beslutninger**
 
-** IN4050 - Introduksjon til kunstig intelligens og maskinlæring ** 
+**IN4050 - Introduksjon til kunstig intelligens og maskinlæring** 
 
-** IN4020 - Databasesystemer ** 
+**IN4020 - Databasesystemer** 
