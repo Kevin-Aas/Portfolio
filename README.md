@@ -1,4 +1,4 @@
-# Portefølje 
+## Portefølje 
 
 Velkommen til min portefølje! Her vil du finne tidligere innleveringer og prosjekter som jeg har gjort under studietiden min på Blindern. 
 
