@@ -6,22 +6,18 @@
 
 Beskrivelse 
 
-Teknologi og verktøy: 
+Teknologi og verktøy: Java, Visual Studio Code 
 
 **IN-STK5000 - Adaptive metoder for data-baserte beslutninger**
 
 Beskrivelse 
 
-Teknologi og verktøy: 
+Teknologi og verktøy: Python, Jupyter, GitHub
 
 **IN4050 - Introduksjon til kunstig intelligens og maskinlæring** 
 
 Beskrivelse 
 
-Teknologi og verktøy: 
+Teknologi og verktøy: Python
 
-**IN4020 - Databasesystemer** 
 
-Beskrivelse 
-
-Teknologi og verktøy: 
