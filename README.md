@@ -1,7 +1,5 @@
 ## Portefølje 
 
-Her finner du tidligere innleveringer og prosjekter som jeg har gjort under studietiden min på Blindern. 
-
 ## Innhold 
 
 **IN1010 - Objektorientert programmering**
