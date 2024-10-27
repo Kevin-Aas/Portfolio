@@ -31,8 +31,16 @@ __Teknologi og verktøy:__ Python, Jupyter, GitHub
 
 **IN4050 - Introduksjon til kunstig intelligens og maskinlæring** 
 
-Beskrivelse 
+1 - Evolutionary Algorithms 
 
-Teknologi og verktøy: Python
+__The Traveling Saleman Problems:__
+
+2 - Supervised Learning 
+
+
+
+3 - Unsupervised Learning
+
+Teknologi og verktøy: Python, Jupyter
 
 
