@@ -18,7 +18,9 @@
 
 7 - Et program som finner veier ut av en labyrint
 
-Teknologi og verktøy: Java, Visual Studio Code 
+__Lenke til GitHub-repo:__ https://github.com/Kevin-Aas/IN1010
+
+__Teknologi og verktøy:__ Java, Visual Studio Code 
 
 **IN-STK5000 - Adaptive metoder for data-baserte beslutninger**
 
