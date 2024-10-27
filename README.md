@@ -22,6 +22,7 @@ __Lenke til GitHub-repo:__ https://github.com/Kevin-Aas/IN1010
 
 __Teknologi og verktøy:__ Java, Visual Studio Code 
 
+
 **IN-STK5000 - Adaptive metoder for data-baserte beslutninger**
 
 I dette emnet samarbeidet jeg med andre studenter. Vi fikk utdelt et datasett der vi skal resonnementere oss frem til hva vi vil bruke datasett til. 
@@ -30,6 +31,7 @@ Scenario er som følgende: et verktøy som brukes til risikovurdering for diabet
 __Lenke til GitHub-repo:__ https://github.uio.no/marktz/IN-STK5000
 
 __Teknologi og verktøy:__ Python, Jupyter, GitHub
+
 
 **IN4050 - Introduksjon til kunstig intelligens og maskinlæring** 
 
