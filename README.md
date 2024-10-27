@@ -22,7 +22,7 @@ Teknologi og verktøy: Java, Visual Studio Code
 
 **IN-STK5000 - Adaptive metoder for data-baserte beslutninger**
 
-I dette emnet samarbeidet jeg med 3 andre studenter. Vi fikk utdelt et datasett der vi skal resonnementere oss frem til hva vi vil bruke datasett til. 
+I dette emnet samarbeidet jeg med andre studenter. Vi fikk utdelt et datasett der vi skal resonnementere oss frem til hva vi vil bruke datasett til. 
 Scenario er som følgende: et verktøy som brukes til risikovurdering for diabetes. Jeg hadde ansvar for en små del av oppgave 2 (korrelasjon) og hele oppgave 3. 
 
 __Lenke til GitHub-repo:__ https://github.uio.no/marktz/IN-STK5000
