@@ -47,14 +47,16 @@ __Lenke til repo for STK1110 (R):__ https://github.com/Kevin-Aas/STK1110
 
 1 - Evolutionary Algorithms 
 
-__The Traveling Saleman Problems:__
+__The Traveling Saleman Problems:__ https://github.com/Kevin-Aas/Portfolio/blob/main/IN4050/assignment1/Assignment1.ipynb
 
 2 - Supervised Learning 
 
-
+__Classification of data:__ https://github.com/Kevin-Aas/Portfolio/blob/main/IN4050/assignment2/Assignment2.ipynb
 
 3 - Unsupervised Learning
 
-Teknologi og verktøy: Python, Jupyter
+__Principal component analysis:__ https://github.com/Kevin-Aas/Portfolio/blob/main/IN4050/assignment3/assignment3.ipynb
+
+__Teknologi og verktøy:__ Python, Jupyter
 
 
