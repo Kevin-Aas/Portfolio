@@ -1,7 +1,5 @@
 ## Portefølje 
 
-## Innhold 
-
 **IN1010 - Objektorientert programmering**
 
 1 - Game of Life
@@ -20,8 +18,9 @@
 
 __Lenke til GitHub-repo:__ https://github.com/Kevin-Aas/IN1010
 
-__Teknologi og verktøy:__ Java, Visual Studio Code 
+__Teknologi og verktøy:__ Java, Visual Studio Code
 
+##
 
 **IN-STK5000 - Adaptive metoder for data-baserte beslutninger**
 
@@ -32,6 +31,17 @@ __Lenke til GitHub-repo:__ https://github.uio.no/marktz/IN-STK5000
 
 __Teknologi og verktøy:__ Python, Jupyter, GitHub
 
+## 
+
+**STK1100 og STK1110 - Statistiske emner** 
+
+Jeg har lagt obligatoriske innleveringer (pdf) i de mappene som ligger i denne repoen.
+
+__Lenke til repo for STK1100 (Python):__ https://github.com/Kevin-Aas/STK1100
+
+__Lenke til repo for STK1110 (R):__ https://github.com/Kevin-Aas/STK1110
+
+##
 
 **IN4050 - Introduksjon til kunstig intelligens og maskinlæring** 
 
