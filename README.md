@@ -13,7 +13,8 @@
 5 - Om å lete etter og behandle mønstre i immunrepertoarer
 
 6 - Gui for Game of Life 
-![alt text](Etc/oblig6.gif)
+<img src="Etc/oblig6.gif" width="250" height="250"/>
+
 7 - Et program som finner veier ut av en labyrint
 <img src="https://github.com/Kevin-Aas/Portfolio/blob/main/Etc/oblig7_IN1010.png" width="500" height="700"/>
 
