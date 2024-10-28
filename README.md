@@ -14,6 +14,7 @@
 
 6 - Gui for Game of Life 
 <video controls src="Etc/oblig6_IN1010.mp4" title="Title"></video>
+
 7 - Et program som finner veier ut av en labyrint
 ![alt text](Etc/oblig7_IN1010.png)
 
