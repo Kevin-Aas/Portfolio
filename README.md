@@ -14,11 +14,11 @@
 
 6 - Gui for Game of Life 
 
-<video src="https://github.com/Kevin-Aas/Portfolio/blob/c8729e4448d85da8e7e41a3263266eeb837557b8/Etc/oblig6_IN1010.mp4" width="500" height:"500" />
+<video src="https://github.com/Kevin-Aas/Portfolio/blob/c8729e4448d85da8e7e41a3263266eeb837557b8/Etc/oblig6_IN1010.mp4"/>
 
 7 - Et program som finner veier ut av en labyrint
 
-<img src="https://github.com/Kevin-Aas/Portfolio/blob/main/Etc/oblig7_IN1010.png" width="500" height="800"/>
+<img src="https://github.com/Kevin-Aas/Portfolio/blob/main/Etc/oblig7_IN1010.png" width="500" height="900"/>
 
 __Lenke til GitHub-repo:__ https://github.com/Kevin-Aas/IN1010
 
