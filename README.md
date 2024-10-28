@@ -15,7 +15,8 @@
 6 - Gui for Game of Life 
 
 7 - Et program som finner veier ut av en labyrint
-<img src="https://github.com/Kevin-Aas/Portfolio/blob/main/Etc/oblig7_IN1010.png" width="100" height="100"/>
+
+<img src="https://github.com/Kevin-Aas/Portfolio/blob/main/Etc/oblig7_IN1010.png" width="500" height="600"/>
 
 __Lenke til GitHub-repo:__ https://github.com/Kevin-Aas/IN1010
 
