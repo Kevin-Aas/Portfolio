@@ -15,13 +15,11 @@
 6 - Gui for Game of Life 
 ![alt text](Etc/oblig6.gif)
 7 - Et program som finner veier ut av en labyrint
-<img src="https://github.com/Kevin-Aas/Portfolio/blob/main/Etc/oblig7_IN1010.png" width="500" height="900"/>
+<img src="https://github.com/Kevin-Aas/Portfolio/blob/main/Etc/oblig7_IN1010.png" width="500" height="700"/>
 
 __Lenke til GitHub-repo:__ https://github.com/Kevin-Aas/IN1010
 
 __Teknologi og verktøy:__ Java, Visual Studio Code
-
-##
 
 **IN-STK5000 - Adaptive metoder for data-baserte beslutninger**
 
@@ -32,8 +30,6 @@ __Lenke til GitHub-repo:__ https://github.uio.no/marktz/IN-STK5000
 
 __Teknologi og verktøy:__ Python, Jupyter, GitHub
 
-## 
-
 **STK1100 og STK1110 - Statistikk emner** 
 
 Jeg har lagt obligatoriske innleveringer (pdf) i de mappene som ligger i denne repoen.
@@ -41,8 +37,6 @@ Jeg har lagt obligatoriske innleveringer (pdf) i de mappene som ligger i denne r
 __Lenke til repo for STK1100 (Python):__ https://github.com/Kevin-Aas/STK1100
 
 __Lenke til repo for STK1110 (R):__ https://github.com/Kevin-Aas/STK1110
-
-##
 
 **IN4050 - Introduksjon til kunstig intelligens og maskinlæring** 
 
