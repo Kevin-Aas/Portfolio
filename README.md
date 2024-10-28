@@ -14,7 +14,7 @@
 
 6 - Gui for Game of Life 
 
-<video src="https://github.com/Kevin-Aas/Portfolio/blob/c8729e4448d85da8e7e41a3263266eeb837557b8/Etc/oblig6_IN1010.mp4"/>
+https://github.com/Kevin-Aas/Portfolio/blob/c8729e4448d85da8e7e41a3263266eeb837557b8/Etc/oblig6_IN1010.mp4
 
 7 - Et program som finner veier ut av en labyrint
 
