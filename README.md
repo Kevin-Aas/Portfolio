@@ -3,9 +3,13 @@
 **IN1010 - Objektorientert programmering**
 
 1 - Game of Life
+
 2 - Legemidler og resepter 
+
 3 - Datastrukturer for leger og resepter
+
 4 - Legesystem
+
 5 - Om å lete etter og behandle mønstre i immunrepertoarer
 
 6 - Gui for Game of Life 
