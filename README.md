@@ -16,7 +16,7 @@
 <video controls src="Etc/oblig6_IN1010.mp4" title="Title"></video>
 
 7 - Et program som finner veier ut av en labyrint
-![Alt text](Etc/oblig7_In1010.png?raw=true "Optional Title")
+![Alt text](https://github.com/Kevin-Aas/Portfolio/blob/6c6695220eb54db73c57d90ce14621b06ae13388/Etc/oblig7_IN1010.png)
 
 __Lenke til GitHub-repo:__ https://github.com/Kevin-Aas/IN1010
 
