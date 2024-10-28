@@ -16,7 +16,7 @@
 
 7 - Et program som finner veier ut av en labyrint
 
-<img src="https://github.com/Kevin-Aas/Portfolio/blob/main/Etc/oblig7_IN1010.png" width="500" height="600"/>
+<img src="https://github.com/Kevin-Aas/Portfolio/blob/main/Etc/oblig7_IN1010.png" width="500" height="800"/>
 
 __Lenke til GitHub-repo:__ https://github.com/Kevin-Aas/IN1010
 
